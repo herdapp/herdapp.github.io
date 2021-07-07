@@ -27,5 +27,5 @@ A lot has changed since we first launched! Here is a quick update on what is new
 
 ### Profile
  - Profiles now have the option for a public view
- - Up to 9 pics can be selected to share publicly with other Herd members
+ - Up to 15 pics can be selected to share publicly with other Herd members
  - In addition to sharing pics, you can now set a public bio and share your pronouns
