@@ -5,7 +5,7 @@ These guidelines are our acceptable use policy, so if you find content that shou
 ## Content safety
 
 Herd isn’t a place for antagonistic, explicit, false or misleading, harmful, hateful, or violent content or behavior. We may remove, limit, or block the distribution of such content and the accounts, individuals, groups and domains that create or spread it based on how much harm it poses.
-We’re committed to presenting you with clear and transparent expectations that are easy to understand and follow. If you have questions or encounter problems on Herd, please email us at support@theherdapp.com.
+We’re committed to presenting you with clear and transparent expectations that are easy to understand and follow. If you have questions or encounter problems on Herd, please email us at contact@theherdapp.com.
 
 ### Adult content
 
