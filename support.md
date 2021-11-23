@@ -17,6 +17,7 @@ Moving on to the secondary pages, which you can find in the side navigation.
 3. Add a connetion is where you can search for other herd users by handle. Please note, a connection is what other platforms call a "follow". We don't share numbers of followers on herd to protect our users well-being and keep the focus on conversation & casual pic sharing. 
 4. Settings allows you to change your handle, 
 5. Help is this page :) 
+6. Share herd helps you spread the word about herd, by sharing it to your friends. We greatly appreciate this support! 
 
 ## Get support online
 
