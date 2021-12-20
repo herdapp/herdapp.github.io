@@ -4,7 +4,7 @@ A lot has changed since we first launched! Here is a quick update on what is new
 
 ### Herds 
  - Say hello to our newest feature! Each week, we place you in a herd (aka a group chat) of people that share 2-3 of your interests! 
- - Should you enhoy your group, you have until the end of the week to save the herd and keep chatting! 
+ - Should you enjoy your group, you have until the end of the week to save the herd and keep chatting! 
 
 ### Feed
  - The feed is fully focused on discovery, showing you pics from people that share your interests 
