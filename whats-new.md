@@ -3,7 +3,7 @@
 A lot has changed since we first launched! Here is a quick update on what is new with Herd:
 
 ### Herds 
- - Say hello to our newest feature! Each week, we place you in a herd (aka a group chat) of people that share 2-3 of your interests! 
+ - Say hello to our newest feature! Each week, we place you in a herd (aka a group chat) with a small group people that share 2 of your interests! 
  - Should you enjoy your group, you have until the end of the week to save the herd and keep chatting! 
 
 ### Feed
